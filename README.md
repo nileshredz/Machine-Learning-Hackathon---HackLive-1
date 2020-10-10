@@ -1,4 +1,4 @@
-# Machine-Learning-Hackathon - HackLive 1 👨‍💻📈
+# Predict customer subscription using SKLearn - HackLive-1 👨‍💻📈
 
 HackLive is an Machine Learning Hackathon organised by <a href = "https://datahack.analyticsvidhya.com/contest/all/"><strong>Analytics Vidhya</strong></a> 
 
